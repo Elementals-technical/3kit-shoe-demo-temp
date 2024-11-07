@@ -1,0 +1,10 @@
+{
+  "verbose": false,
+  "ignore": ["*.test.js"],
+  "watch": ["api/"],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "ext": "ts, js, json",
+  "delay": 250
+}
